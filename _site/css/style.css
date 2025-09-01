@@ -1,0 +1,14 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px;
+    color: aqua;
+    background-color: black;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    font-size: large;
+    background-color: wheat;
+    color: black;
+}
