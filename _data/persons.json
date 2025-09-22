@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "name": "truman",
+            "potion": "commander and chief",
+            "email": "harrytruman@usa.com",
+            "picture":"truman.jpg"
+        },
+
+
+          {
+            "name": "Seagull",
+            "potion": "eater of the bread",
+            "email": "sea@hotbread.com",
+            "picture":"seagull.jpg"
+        }
+
+    ]
+}
